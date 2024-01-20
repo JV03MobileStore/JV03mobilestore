@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fchinh-sach-ban-hang","\u002Fchinh-sach-bao-hanh","\u002Fchinh-sach-bao-hanh-mo-rong","\u002Fchinh-sach-bao-mat","\u002Fchinh-sach-doi-tra","\u002Fchinh-sach-kiem-hang","\u002Fchinh-sach-su-dung","\u002Fgioi-thieu"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
